@@ -29,7 +29,7 @@
 			<artifactId>maven-jar-plugin</artifactId>
 			<version>2.6</version>
 			<configuration>
-        <finalName>myApp_28818506N</finalName>
+				 <finalName>myApp_28818506N</finalName>
 			</configuration>
 		</plugin>
 	</plugins>
