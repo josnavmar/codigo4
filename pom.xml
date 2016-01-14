@@ -41,12 +41,3 @@
 	 </profile>
 </profiles>
 </project>
-
-
-
-     <build>
-     …
-     </build>
-     <distributionManagement>
-     …
-     </distributionManagement>
